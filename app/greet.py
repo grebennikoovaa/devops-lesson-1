@@ -1,6 +1,6 @@
 def greet(name: str = "World") -> str:
     """Return a friendly greeting."""
-    return f"Hello, {nam}!"
+    return f"Hello, {name}!"
 
 
 def shout(name: str = "World") -> str:
